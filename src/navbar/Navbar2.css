@@ -14,6 +14,7 @@ nav {
 nav img {
     -webkit-filter: invert(.9);
     filter: invert(.9);
+    margin-top: 15px;
 }
 
 nav ul {
