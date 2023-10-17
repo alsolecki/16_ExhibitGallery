@@ -1,11 +1,11 @@
-import Navbar2 from './navbar/Navbar2'
+import SiteNavBar from "./navBar/SiteNavBar.jsx"
 
 function App() {
 
 
   return (
     <>
-      <Navbar2 />
+      <SiteNavBar />
     </>
   )
 }
